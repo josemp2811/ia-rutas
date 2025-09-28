@@ -1,0 +1,13 @@
+# KB de ejemplo
+conecta(EstacionA,EstacionB,3)
+conecta(EstacionB,EstacionC,2)
+conecta(EstacionA,EstacionD,6)
+conecta(EstacionD,EstacionC,1)
+conecta(EstacionC,EstacionE,4)
+
+# coordenadas para A* (lon, lat)
+coord(EstacionA, -74.05, 4.66)
+coord(EstacionB, -74.03, 4.67)
+coord(EstacionC, -74.02, 4.665)
+coord(EstacionD, -74.06, 4.655)
+coord(EstacionE, -74.01, 4.67)
